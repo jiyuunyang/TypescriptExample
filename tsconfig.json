@@ -1,0 +1,9 @@
+//TODO 타입 스크립트 컴파일시 세부설정
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "noImplicitAny": true,
+    "strictNullChecks": true
+  }
+}
